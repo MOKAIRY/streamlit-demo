@@ -7,7 +7,7 @@ st.set_page_config(
 )
 
 st.title("🎓 Student Grade Analyzer")
-st.caption("Python Fundamentals + Streamlit Demo")
+st.caption("Python Fundamentals + Streamlit Demo By Meshal Okairy")
 
 st.divider()
 
