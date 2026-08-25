@@ -1,6 +1,7 @@
 import streamlit as st
 
 st.title("BMI Calculator")
+st.caption("Intermediate Python + Streamlit Demo By Meshal Okairy")
 
 with st.form("bmi_calculator"):
     weight = st.number_input("Enter your weight (kg)", min_value=0.0)
